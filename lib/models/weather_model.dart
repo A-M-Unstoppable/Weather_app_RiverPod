@@ -46,8 +46,6 @@ class weather extends Equatable {
         return 'assets/1.png';
       case 5:
         return 'assets/2.png';
-      case 'shower rain':
-        return 'assets/3.png';
       case 6:
         return 'assets/4.png';
       case 3:
