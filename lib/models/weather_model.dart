@@ -55,6 +55,7 @@ class weather extends Equatable {
       default:
         return 'assets/8.png';
 
+
     }
   }
 }
